@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Dell XPS 15",
+      "brand": "Dell",
+      "price": 1599.99,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "processor": "Intel Core i7-12700H",
+      "ram": "16GB DDR5",
+      "storage": "512GB SSD",
+      "display": "15.6-inch 4K OLED",
+      "graphics": "NVIDIA RTX 3050 Ti",
+      "battery": "86Wh",
+      "weight": "1.9 kg"
+    },
+    {
+      "id": 2,
+      "name": "MacBook Pro 14",
+      "brand": "Apple",
+      "price": 1999.99,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "processor": "Apple M2 Pro",
+      "ram": "16GB Unified Memory",
+      "storage": "1TB SSD",
+      "display": "14.2-inch Liquid Retina XDR",
+      "graphics": "Apple M2 Pro GPU",
+      "battery": "70Wh",
+      "weight": "1.6 kg"
+    },
+    {
+      "id": 3,
+      "name": "ASUS ROG Zephyrus G14",
+      "brand": "ASUS",
+      "price": 1799.99,
+      "image": "https://images.pexels.com/photos/18105/pexels-photo.jpg",
+      "processor": "AMD Ryzen 9 6900HS",
+      "ram": "32GB DDR5",
+      "storage": "1TB SSD",
+      "display": "14-inch QHD 165Hz",
+      "graphics": "AMD Radeon RX 6800S",
+      "battery": "76Wh",
+      "weight": "1.7 kg"
+    }
+  ]
+}

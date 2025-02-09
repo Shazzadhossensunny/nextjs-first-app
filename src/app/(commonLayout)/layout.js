@@ -5,7 +5,7 @@ export default function CommonLayout({ children }) {
   return (
     <div>
       <Navbar />
-      {children}
+      <div className="h-screen py-10">{children}</div>
       <Footer />
     </div>
   );
