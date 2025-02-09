@@ -1,6 +1,11 @@
 import Link from "next/link";
 import styles from "../register/Register.module.css";
 
+export const metadata = {
+  title: "Register Page",
+  description: "This is register page",
+};
+
 export default function RegisterPage() {
   return (
     <>

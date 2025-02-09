@@ -1,6 +1,11 @@
 import Link from "next/link";
 import styles from "../login/Login.module.css";
 
+export const metadata = {
+  title: "Login Page",
+  description: "This is login page",
+};
+
 export default function LoginPage() {
   return (
     <>
